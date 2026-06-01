@@ -123,6 +123,25 @@ Other CYD-style boards may look similar but use different display, touch, or SD 
 - 20 new Selectable ASCII clock fonts
 - Various Bug fixes
 
+## GIFs of some of the New Features in v2.20 }>{{{{• >
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+    <img
+        src="https://github.com/POWER-PILL/ASCII-Aquarium/blob/aa661770a8f8656dc19811996055b8e791f20b89/docs/assets/ASCII_FONTS_2.2.gif"
+        alt="New ASCII Fonts"
+        width="100%">
+    </td>
+    <td width="50%" valign="top">
+      <img
+        src="https://github.com/POWER-PILL/ASCII-Aquarium/blob/e33922a080bef4816fc36799a1c52ee5d383b4de/docs/assets/Screenshots_2.20.gif"
+        alt="ASCII Aquarium v2.20 Settings"
+        width="100%">
+    </td>
+  </tr>
+</table>
+
 ## Basic Controls ><((((*>
 
 
@@ -139,8 +158,8 @@ Other CYD-style boards may look similar but use different display, touch, or SD 
     </td>
     <td width="50%" valign="top">
       <img
-        src="https://github.com/user-attachments/assets/3a448574-69ee-40fb-a141-50961f769b09"
-        alt="ASCII Aquarium Settings"
+        src="https://github.com/POWER-PILL/ASCII-Aquarium/blob/e33922a080bef4816fc36799a1c52ee5d383b4de/docs/assets/Screenshots_2.20.gif"
+        alt="ASCII Aquarium v2.20 Settings"
         width="100%">
     </td>
   </tr>
